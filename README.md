@@ -4,7 +4,9 @@
 <!-- Replace assets/banner/banner.png with your own anime + text banner (Canva/Photopea).
      GitHub markdown can't render blur/matrix-rain/gradients natively, so the cleanest
      way to get that exact look is a single designed image here. -->
-<img src="assets/banner/banner.png" width="100%" alt="banner" />
+<img width="700" height="394" alt="Untitleddesign21-ezgif com-resize" src="https://github.com/user-attachments/assets/af4db669-e1ec-405c-a06f-bd868c6139f3" />
+
+
 
 <!-- If you don't have a banner image yet, use this animated typing header instead -->
 <!--
