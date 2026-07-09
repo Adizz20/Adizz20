@@ -140,7 +140,81 @@ Thanks for stopping by! ⭐
 **⏱️ WakaTime Stats**
 
 <!--START_SECTION:waka-->
-<!-- This section auto-fills once the waka.yml workflow runs -->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-52.32%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 37.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 19 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 22 Public Repositories 
+ > 
+> 🔑 4 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+🌆 Daytime                29 commits          ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+🌃 Evening                68 commits          █████████████░░░░░░░░░░░░   51.91 % 
+🌙 Night                  17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   52 commits          ██████████░░░░░░░░░░░░░░░   39.69 % 
+Tuesday                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Wednesday                61 commits          ████████████░░░░░░░░░░░░░   46.56 % 
+Thursday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Friday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Saturday                 9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Sunday                   2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               10 repos            ███████████░░░░░░░░░░░░░░   43.48 % 
+Java                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Adizz20/Adizz20/main/assets/bar_graph.png)
+
+
+ Last Updated on 09/07/2026 07:16:09 UTC
 <!--END_SECTION:waka-->
 
 </td>
