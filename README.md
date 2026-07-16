@@ -142,7 +142,7 @@ Thanks for stopping by! ⭐
 **⏱️ WakaTime Stats**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue?style=flat)
 
@@ -221,7 +221,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Adizz20/Adizz20/main/assets/bar_graph.png)
 
 
- Last Updated on 15/07/2026 13:58:03 UTC
+ Last Updated on 16/07/2026 03:19:27 UTC
 <!--END_SECTION:waka-->
 
 </td>
